@@ -18,13 +18,17 @@ Projectの設定データ（Runtime / Editor）とその編集用エディタ拡
 <img src="https://github.com/user-attachments/assets/3914617c-f773-4341-b2c1-1688b5f4e1cd" alt="Provider_Preferece" width="600" />
 
 
+
+
 ### Preference
 データはテキスト形式で` `に保存されます．（※複数プロジェクトで共通）
 
+<img src="https://github.com/user-attachments/assets/88f79e7c-2085-43ed-8243-b53ae1a28e24" alt="Provider_Preferece" width="600" />
+
+
 ## 使い方
-以下のフォルダを自分のUnityプロジェクトのAssets内（任意の場所）に配置します．
-
-
+1. `Assets/SettingsTemplate`フォルダを自分のUnityプロジェクトのAssets内（任意の場所）に配置します．
+2. 
 
 ##　開発環境
 　Unity 6000.0.30f1
